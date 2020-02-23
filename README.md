@@ -1,3 +1,5 @@
+![](graphics/CodeNameSQL-Logo.jpg)
+
 # It's time to Git with DevOps - PreCon
 
 Welcome and thank you for taking time to attend today's session of Git and DevOps.  In today's session, we will cover everything you need to know to get started with Git and building a strong DevOps foundation for success.
