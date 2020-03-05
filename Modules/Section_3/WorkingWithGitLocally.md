@@ -9,3 +9,4 @@
 - Getting changes from Remote
 - Merging changes
 - Pushing changes to remote
+- [Back to the Main Page](../../README.md)
